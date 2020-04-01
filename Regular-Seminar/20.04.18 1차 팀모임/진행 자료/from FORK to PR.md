@@ -5,12 +5,13 @@
 ![다람쥐 멋있는 자세](./images/다람쥐%20멋있는%20자세.JPG)  
 <br>
 깃허브 포크 기능과 풀 리퀘스트로 어떻게 백엔드팀 세미나 레포에 기여할 수 있는지 차근 차근 알아봅시다!  
+( 첨부된 사진의 레포 주소와 실제 레포 주소는 다릅니다. )  
 
 ## 1. Fork 버튼 누르기
 ![Fork 버튼 누르기](./images/1.%20ForkButton.PNG)
 
-[백엔드팀 Seminar 레포](https://github.com/mashup-backend-9th/Seminar)에서 제목 오른쪽에 있는 `Fork` 버튼을 클릭합니다.  
-성공적으로 Fork 가 되었다면, `mashup-backend-9th` 소유가 아닌 자신의 소유로 클론됩니다.  
+[백엔드팀 Seminar 레포](https://github.com/mash-up-kr/Backend_9th_Seminar)에서 제목 오른쪽에 있는 `Fork` 버튼을 클릭합니다.  
+성공적으로 Fork 가 되었다면, `mash-up-kr` 소유가 아닌 자신의 소유로 클론됩니다.  
 <br>
 ![내 소유로 클론](./images/2.%20MyRepo.PNG)  
 내 소유의 Seminar 레포를 Local 공간으로 클론합니다.  
