@@ -35,7 +35,7 @@
 ## 팀 세미나
 |날짜|진행자|제목|설명|링크|
 |---|---|---|---|---|
-|2020.04.01|[다람쥐](https://github.com/kor-Chipmunk)|Do you know Java?|Java 언어를 복습합시다!|[진행 자료](https://github.com/mash-up-kr/Backend_9th_Seminar/tree/master/Regular-Seminar/20.04.18%201차%20팀모임/) / [개인 폴더](https://github.com/mash-up-kr/Backend_9th_Seminar/tree/master/Regular-Seminar/20.04.18%201차%20팀모임/개인%20자료/)|
+|2020.04.25|[다람쥐](https://github.com/kor-Chipmunk)|1차 팀모임: 오리엔테이션|백엔드팀 소개와 아이스브레이킹을 진행합니다.|[진행 자료](./Regular-Seminar/20.04.18%201차%20팀모임/진행%20자료/매쉬업백엔드팀오티.pdf)|
 
 ---
 
