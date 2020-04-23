@@ -317,7 +317,7 @@ Data Transfer Object로 **계층간 데이터 교환을 위한 자바 빈즈**�
 
 ### 2.디렉토리 구조
 
-![img](/images/dir.jpg)
+![img](./images/dir.jpg)
 
 - Controller (web)
   - url에 따라 적절한 data처리와 View 매핑
