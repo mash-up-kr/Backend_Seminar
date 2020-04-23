@@ -27,7 +27,7 @@
 
 ## 1.2. 인텔리제이 설치
 
-툴박스를 [이곳](! https://www.jetbrains.com/toolbox-app/ )에서 설치하자.
+툴박스를 [이곳](https://www.jetbrains.com/toolbox-app/ )에서 설치하자.
 
 툴박스는 인텔리제이의 버전관리를 용이하게 해주므로 이를 통해 설치하도록 한다.
 
