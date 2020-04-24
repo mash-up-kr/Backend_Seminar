@@ -70,7 +70,7 @@ TDD와 달리 테스트 코드를 꼭 먼저 작성해야 하는 것도 아니�
 
 3. Postman과 같은 API 테스트 도구로 HTTP 요청하고
 
-4. 요쳥 결과를 System.out.println()으로 눈으로 검증합니다.
+4. 요청 결과를 System.out.println()으로 눈으로 검증합니다.
 
 5. 결과가 다르면 다시 프로그램(Tomcat)을 중지하고 코드를 수정합니다.
 
@@ -149,7 +149,7 @@ TDD와 달리 테스트 코드를 꼭 먼저 작성해야 하는 것도 아니�
 
     스프링 부트에서는 내장 WAS를 사용하는 것을 권장하고 있습니다. <br>
     이유는 '언제 어디서나 같은 환경에서 스프링 부트를 배포'할 수 있기 때문입니다. <br>
-    외장 wAS를 쓴다고 하면 모든 서버는 WAS의 종류와 버전, 설정을 일치시켜야만 합니다. <br>
+    외장 WAS를 쓴다고 하면 모든 서버는 WAS의 종류와 버전, 설정을 일치시켜야만 합니다. <br>
     새로운 서버가 추가되면 모든 서버가 같은 WAS 환경을 구축해야만 합니다. <br>
     따라서 많은 회사에서도 내장 WAS를 사용하도록 전환하고 있습니다.
   
@@ -637,6 +637,8 @@ name과 amount는 API를 호출하는 곳에서 넘겨준 값들입니다.
 
 ##### 출처 : [dpudpu](https://dublin-java.tistory.com/54), [Heee's Development Blog](https://gmlwjd9405.github.io/2018/06/03/agile-tdd.html)
 
+<br>
+
 ### 2. 스프링 테스트 어노테이션 종류
 
 |어노테이션|설명|Bean|
@@ -708,6 +710,8 @@ REST 통신의 JSON 형식이 예상대로 응답을 반환하는지 등을 테�
 JSON의 직렬화, 역직렬화를 수행하는 라이브러리인 Gson과 Jackson의 테스트를 제공합니다.
 
 ##### 출처 : [Yun Blog](https://cheese10yun.github.io/spring-boot-test/), [TOAST Meetup!](https://meetup.toast.com/posts/124)
+
+<br>
 
 ### 3. MockMvc란?
 
@@ -783,6 +787,8 @@ E2E(End-to-End) 테스트는 종단(EndPoint)간 테스트로 사용자의 입�
   스프링 MVC 기능을 이용하면서도 단위 테스트 관점에서 컨트롤러 테스트를 합니다.
 
 ##### 출처 : [IT모아](https://itmore.tistory.com/entry/MockMvc-상세설명)
+
+<br>
 
 ## 회고
 
