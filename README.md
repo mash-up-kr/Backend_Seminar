@@ -43,4 +43,6 @@
 ## 10분 세미나
 |날짜|발표자|제목|설명|링크|
 |---|---|---|---|---|
-|2020.04.01|[다람쥐](https://github.com/kor-Chipmunk)|Stream과 Lambda|Java8의 스트림과 람다를 알아보자!|[발표 자료](https://github.com/mash-up-kr/Backend_9th_Seminar/tree/master/Ten-min-Seminar/20.04.25%20OAuth-2.0를%20알아보자/) / [프로젝트 폴더](https://github.com/mash-up-kr/Backend_9th_Seminar/tree/master/Ten-min-Seminar/20.04.25%20OAuth-2.0를%20알아보자/예제%20프로젝트/)|
+|2020.04.25|[다람쥐](https://github.com/kor-Chipmunk)|JDBC와 JPA|JDBC의 단점과 JPA의 장점을 알아보자|[발표 자료](./Ten-min/Seminar/20.04.25%20JPA와%20JDBC/JPA와JDBC.pdf)|
+|2020.04.25|[forest.grass](https://github.com/korea8378)|스프링, 장고, 익스프레스의 차이점|HTTP와 OS를 이용한 접근|[발표 자료](./Ten-min-Seminar/20.04.25%20스프링%2C%20장고%2C%20익스프레스(노드)의%20차이점%20-%20HTTP와%20OS를%20이용한%20접근/스프링%2C%20장고%2C%20익스프레스(노드)의%20차이점%20-%20HTTP와%20OS를%20이용한%20접근.pdf)|
+|2020.04.25|[JaeHyeonKim19](https://github.com/JaeHyeonKim19)|Git|Git 명령어와 Git Flow|[발표 자료](./Ten-min-Seminar/20.04.25%20Git/20200425git.pdf)|
