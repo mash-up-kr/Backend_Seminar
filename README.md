@@ -37,6 +37,7 @@
 |---|---|---|---|---|
 |2020.04.18|[다람쥐](https://github.com/kor-Chipmunk)|1차 팀모임: 오리엔테이션|백엔드팀 소개와 아이스브레이킹을 진행합니다.|[진행 자료](./Regular-Seminar/20.04.18%201차%20팀모임/진행%20자료/매쉬업백엔드팀오티.pdf)|
 |2020.04.25|[다람쥐](https://github.com/kor-Chipmunk)|2차 팀모임|스프링 부트를 공부해봅시다!|[진행 자료](./Regular-Seminar/20.04.25%202차%20팀모임/진행%20자료/매쉬업백엔드팀2차모임.pdf)|
+|2020.05.09|[다람쥐](https://github.com/kor-Chipmunk)|3차 팀모임|스프링 부트를 공부해봅시다!|[진행 자료](./Regular-Seminar/20.05.09%203차%20팀모임/진행%20자료/매쉬업백엔드팀3차모임.pdf)|
 
 ---
 
@@ -46,3 +47,4 @@
 |2020.04.25|[다람쥐](https://github.com/kor-Chipmunk)|JDBC와 JPA|JDBC의 단점과 JPA의 장점을 알아보자|[발표 자료](./Ten-min-Seminar/20.04.25%20JPA와%20JDBC/JPA와JDBC.pdf)|
 |2020.04.25|[forest.grass](https://github.com/korea8378)|스프링, 장고, 익스프레스의 차이점|HTTP와 OS를 이용한 접근|[발표 자료](./Ten-min-Seminar/20.04.25%20스프링%2C%20장고%2C%20익스프레스(노드)의%20차이점%20-%20HTTP와%20OS를%20이용한%20접근/스프링%2C%20장고%2C%20익스프레스(노드)의%20차이점%20-%20HTTP와%20OS를%20이용한%20접근.pdf)|
 |2020.04.25|[JaeHyeonKim19](https://github.com/JaeHyeonKim19)|Git|Git 명령어와 Git Flow|[발표 자료](./Ten-min-Seminar/20.04.25%20Git/20200425git.pdf)|
+|2020.05.09|[다람쥐](https://github.com/kor-Chipmunk)|스프링 파일 업로드|스프링 부트에서 파일을 업로드 해보자|[발표 자료](./Ten-min-Seminar/20.05.09%20스프링%20파일%20업로드/spring-file-upload.md)|
