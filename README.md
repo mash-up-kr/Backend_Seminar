@@ -49,3 +49,4 @@
 |2020.04.25|[JaeHyeonKim19](https://github.com/JaeHyeonKim19)|Git|Git 명령어와 Git Flow|[발표 자료](./Ten-min-Seminar/20.04.25%20Git/20200425git.pdf)|
 |2020.05.09|[다람쥐](https://github.com/kor-Chipmunk)|스프링 파일 업로드|스프링 부트에서 파일을 업로드 해보자|[발표 자료](./Ten-min-Seminar/20.05.09%20스프링%20파일%20업로드/spring-file-upload.md)|
 |2020.05.09|[niceoasi](https://github.com/niceoasi)|OCP와 전략패턴|SOLID 원칙은 무엇이고 전략 패턴은 무엇인가?|[발표 자료](./Ten-min-Seminar/20.05.09%20OCP와%20전략패턴/Mash-Up%20김대윤%20(OCP와%20전략패턴).pdf)|
+|2020.05.09|[코딩하는 오징어](https://github.com/gksxodnd007)|성능 테스트|성능 테스트 및 튜닝|[발표 자료](./Ten-min-Seminar/20.05.09%20성능%20테스트/성능%20테스트.pdf)|
