@@ -53,4 +53,4 @@
 |2020.05.09|[코딩하는 오징어](https://github.com/gksxodnd007)|성능 테스트|성능 테스트 및 튜닝|[발표 자료](./Ten-min-Seminar/20.05.09%20성능%20테스트/성능%20테스트.pdf)|
 |2020.05.16|[forest.grass](https://github.com/korea8378) & [JaeHyeonKim](https://github.com/JaeHyeonKim19)|SOLID 설계 원칙|객체지향 설계 원칙을 예제로 쉽게 접근해보자|[발표 자료](./Ten-min-Seminar/20.05.16%20SOLID/SOLID.pdf)|
 |2020.05.16|[ihaeeun](https://github.com/ihaeeun)|TCP & UDP|TCP와 UDP를 알아보자|[발표 자료](./Ten-min-Seminar/20.05.16%20TCP:UDP/TCP:UDP.pdf)|
-|2020.05.16|[MiHyunee](https://github.com/MiHyunee)|Spring MVC|Spring MVC란 무엇일까요?|[발표 자료](./Ten-min-Seminar/20.05.16%20성능%20테스트/성능%20테스트.pdf)|
+|2020.05.16|[MiHyunee](https://github.com/MiHyunee)|Spring MVC|Spring MVC란 무엇일까요?|[발표 자료](./Ten-min-Seminar/20.05.16%20SpringMVC/20.05.16%20SpringMVC.pdf)|
