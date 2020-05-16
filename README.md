@@ -51,3 +51,6 @@
 |2020.05.09|[다람쥐](https://github.com/kor-Chipmunk)|스프링 파일 업로드|스프링 부트에서 파일을 업로드 해보자|[발표 자료](./Ten-min-Seminar/20.05.09%20스프링%20파일%20업로드/spring-file-upload.md)|
 |2020.05.09|[niceoasi](https://github.com/niceoasi)|OCP와 전략패턴|SOLID 원칙은 무엇이고 전략 패턴은 무엇인가?|[발표 자료](./Ten-min-Seminar/20.05.09%20OCP와%20전략패턴/Mash-Up%20김대윤%20(OCP와%20전략패턴).pdf)|
 |2020.05.09|[코딩하는 오징어](https://github.com/gksxodnd007)|성능 테스트|성능 테스트 및 튜닝|[발표 자료](./Ten-min-Seminar/20.05.09%20성능%20테스트/성능%20테스트.pdf)|
+|2020.05.16|[forest.grass](https://github.com/korea8378) & [JaeHyeonKim](https://github.com/JaeHyeonKim19)|SOLID 설계 원칙|객체지향 설계 원칙을 예제로 쉽게 접근해보자|[발표 자료](./Ten-min-Seminar/20.05.16%20SOLID/SOLID.pdf)|
+|2020.05.16|[ihaeeun](https://github.com/ihaeeun)|TCP & UDP|TCP와 UDP를 알아보자|[발표 자료](./Ten-min-Seminar/20.05.16%20TCP:UDP/TCP:UDP.pdf)|
+|2020.05.16|[MiHyunee](https://github.com/MiHyunee)|Spring MVC|Spring MVC란 무엇일까요?|[발표 자료](./Ten-min-Seminar/20.05.16%20성능%20테스트/성능%20테스트.pdf)|
