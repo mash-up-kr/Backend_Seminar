@@ -54,3 +54,4 @@
 |2020.05.16|[forest.grass](https://github.com/korea8378) & [JaeHyeonKim](https://github.com/JaeHyeonKim19)|SOLID 설계 원칙|객체지향 설계 원칙을 예제로 쉽게 접근해보자|[발표 자료](./Ten-min-Seminar/20.05.16%20SOLID/SOLID.pdf)|
 |2020.05.16|[ihaeeun](https://github.com/ihaeeun)|TCP & UDP|TCP와 UDP를 알아보자|[발표 자료](./Ten-min-Seminar/20.05.16%20TCP&UDP/TCP&UDP.pdf)|
 |2020.05.16|[MiHyunee](https://github.com/MiHyunee)|Spring MVC|Spring MVC란 무엇일까요?|[발표 자료](./Ten-min-Seminar/20.05.16%20SpringMVC/20.05.16%20SpringMVC.pdf)|
+|2020.07.11|[JaeHyeonKim19](https://github.com/JaeHyeonKim19)|트랜잭션|트랜잭션과 격리수준에대해서 알아보자|[발표 자료](./Ten-min-Seminar/20.07.11%20isolation-level/isolation-level.pdf)|
