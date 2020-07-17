@@ -55,3 +55,5 @@
 |2020.05.16|[ihaeeun](https://github.com/ihaeeun)|TCP & UDP|TCP와 UDP를 알아보자|[발표 자료](./Ten-min-Seminar/20.05.16%20TCP&UDP/TCP&UDP.pdf)|
 |2020.05.16|[MiHyunee](https://github.com/MiHyunee)|Spring MVC|Spring MVC란 무엇일까요?|[발표 자료](./Ten-min-Seminar/20.05.16%20SpringMVC/20.05.16%20SpringMVC.pdf)|
 |2020.07.11|[JaeHyeonKim19](https://github.com/JaeHyeonKim19)|트랜잭션|트랜잭션과 격리수준에대해서 알아보자|[발표 자료](./Ten-min-Seminar/20.07.11%20isolation-level/isolation-level.pdf)|
+|2020.07.11|[pengin7384](https://github.com/pengin7384)|블록체인|블록체인의 원리를 알아보자|[발표 자료](./Ten-min-Seminar/20.07.11%20블록체인/블록체인.pdf)|
+|2020.07.11|[Yangsiyoung](https://github.com/Yangsiyoung)|인증과 인가|스프링에선 인증과 인가를 어떻게 할까|[발표 자료](./Ten-min-Seminar/20.07.11%20인증과%20인가/인증인가.pdf)|
