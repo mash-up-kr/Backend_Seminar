@@ -59,3 +59,4 @@
 |2020.07.11|[Yangsiyoung](https://github.com/Yangsiyoung)|인증과 인가|스프링에선 인증과 인가를 어떻게 할까|[발표 자료](./Ten-min-Seminar/20.07.11%20인증과%20인가/인증인가.pdf)|
 |2020.07.18|[pengin7384](https://github.com/pengin7384) [ihaeeun](https://github.com/ihaeeun)|HTTPS|TLS 보안과 HTTPS 통신 방법|[발표 자료](./Ten-min-Seminar/20.07.18%20HTTPS/HTTPS.pdf)|
 |2020.07.18|[kwonsye](https://github.com/kwonsye)|Java GC|Garbage Collection 동작 원리|[발표 자료](./Ten-min-Seminar/20.07.18%20GC/GC.pptx)|
+|2020.07.18|[MiHyunee](https://github.com/MiHyunee)|DTO vs VO|DTO와 VO의 차이점|[발표 자료](./Ten-min-Seminar/20.07.18%20DTO%20vs%20VO/20.07.18%20DTO%20vs%20VO.pdf)|
