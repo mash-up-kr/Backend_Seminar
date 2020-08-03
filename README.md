@@ -39,6 +39,10 @@
 |2020.04.25|[다람쥐](https://github.com/kor-Chipmunk)|2차 팀모임|스프링 부트를 공부해봅시다!|[진행 자료](./Regular-Seminar/20.04.25%202차%20팀모임/진행%20자료/매쉬업백엔드팀2차모임.pdf)|
 |2020.05.09|[다람쥐](https://github.com/kor-Chipmunk)|3차 팀모임|토이 프로젝트 아이디어를 기획해봐요!|[진행 자료](./Regular-Seminar/20.05.09%203차%20팀모임/진행%20자료/매쉬업백엔드팀3차모임.pdf)|
 |2020.05.16|[다람쥐](https://github.com/kor-Chipmunk)|4차 팀모임|토이 프로젝트 설계를 같이 해보아요!|[진행 자료](./Regular-Seminar/20.05.16%204차%20팀모임/진행%20자료/매쉬업백엔드팀4차모임.pdf)|
+|2020.07.04|[다람쥐](https://github.com/kor-Chipmunk)|5차 팀모임|토이 프로젝트 회고||
+|2020.07.11|[다람쥐](https://github.com/kor-Chipmunk)|6차 팀모임|백엔드팀 회의|
+|2020.07.18|[다람쥐](https://github.com/kor-Chipmunk)|7차 팀모임|해커톤 마지막 점검||
+|2020.08.01|[다람쥐](https://github.com/kor-Chipmunk)|8차 팀모임|해커톤 프로젝트 리뷰||
 
 ---
 
@@ -60,3 +64,4 @@
 |2020.07.18|[pengin7384](https://github.com/pengin7384) [ihaeeun](https://github.com/ihaeeun)|HTTPS|TLS 보안과 HTTPS 통신 방법|[발표 자료](./Ten-min-Seminar/20.07.18%20HTTPS/HTTPS.pdf)|
 |2020.07.18|[kwonsye](https://github.com/kwonsye)|Java GC|Garbage Collection 동작 원리|[발표 자료](./Ten-min-Seminar/20.07.18%20GC/GC.pptx)|
 |2020.07.18|[MiHyunee](https://github.com/MiHyunee)|DTO vs VO|DTO와 VO의 차이점|[발표 자료](./Ten-min-Seminar/20.07.18%20DTO%20vs%20VO/20.07.18%20DTO%20vs%20VO.pdf)|
+|2020.08.01|[pengin7384](https://github.com/pengin7384)|유해 사이트 차단과 우회|네트워크단에서 어떻게 처리하는지 알아보자|[발표 자료](./Ten-min-Seminar/20.08.01%20유해사이트%20차단과%20우회/유해%20사이트%20차단과%20우회.pptx)|
