@@ -43,6 +43,7 @@
 |2020.07.11|[다람쥐](https://github.com/kor-Chipmunk)|6차 팀모임|백엔드팀 회의|
 |2020.07.18|[다람쥐](https://github.com/kor-Chipmunk)|7차 팀모임|해커톤 마지막 점검||
 |2020.08.01|[다람쥐](https://github.com/kor-Chipmunk)|8차 팀모임|해커톤 프로젝트 리뷰||
+|2020.08.15|[다람쥐](https://github.com/kor-Chipmunk)|9차 팀모임|취업 토크||
 
 ---
 
