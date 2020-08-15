@@ -68,3 +68,4 @@
 |2020.08.01|[pengin7384](https://github.com/pengin7384)|유해 사이트 차단과 우회|네트워크단에서 어떻게 처리하는지 알아보자|[발표 자료](./Ten-min-Seminar/20.08.01%20유해사이트%20차단과%20우회/유해%20사이트%20차단과%20우회.pptx)|
 |2020.08.01|[Yangsiyoung](https://github.com/Yangsiyoung)|SQL Injection|SQL Injection을 알아보자|[발표 자료](./Ten-min-Seminar/20.08.01%20SQL%20Injection/SQL_INJECTION.pdf)|
 |2020.08.15|[Seunghyeon-Kim](https://github.com/Seunghyeon-Kim)|데이터베이스 인덱스|데이터베이스 인덱스 원리를 알아보자|[발표 자료](./Ten-min-Seminar/20.08.15%20데이터베이스%20인덱스/데이터베이스인덱스.pdf)|
+|2020.08.15|[vo0a](https://github.com/vo0a)|MSA|Micro Service Architecture|[발표 자료](./Ten-min-Seminar/20.08.15%20MSA/200815_MSA_김다롬.pdf)|
