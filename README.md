@@ -35,15 +35,15 @@
 ## 팀 세미나
 |날짜|진행자|제목|설명|링크|
 |---|---|---|---|---|
-|2020.04.18|[다람쥐](https://github.com/kor-Chipmunk)|1차 팀모임: 오리엔테이션|백엔드팀 소개와 아이스브레이킹을 진행합니다.|[진행 자료](./Regular-Seminar/20.04.18%201차%20팀모임/진행%20자료/매쉬업백엔드팀오티.pdf)|
-|2020.04.25|[다람쥐](https://github.com/kor-Chipmunk)|2차 팀모임|스프링 부트를 공부해봅시다!|[진행 자료](./Regular-Seminar/20.04.25%202차%20팀모임/진행%20자료/매쉬업백엔드팀2차모임.pdf)|
-|2020.05.09|[다람쥐](https://github.com/kor-Chipmunk)|3차 팀모임|토이 프로젝트 아이디어를 기획해봐요!|[진행 자료](./Regular-Seminar/20.05.09%203차%20팀모임/진행%20자료/매쉬업백엔드팀3차모임.pdf)|
-|2020.05.16|[다람쥐](https://github.com/kor-Chipmunk)|4차 팀모임|토이 프로젝트 설계를 같이 해보아요!|[진행 자료](./Regular-Seminar/20.05.16%204차%20팀모임/진행%20자료/매쉬업백엔드팀4차모임.pdf)|
-|2020.07.04|[다람쥐](https://github.com/kor-Chipmunk)|5차 팀모임|토이 프로젝트 회고||
-|2020.07.11|[다람쥐](https://github.com/kor-Chipmunk)|6차 팀모임|백엔드팀 회의|
-|2020.07.18|[다람쥐](https://github.com/kor-Chipmunk)|7차 팀모임|해커톤 마지막 점검||
-|2020.08.01|[다람쥐](https://github.com/kor-Chipmunk)|8차 팀모임|해커톤 프로젝트 리뷰||
-|2020.08.15|[다람쥐](https://github.com/kor-Chipmunk)|9차 팀모임|취업 토크||
+|2020.04.18|[다람쥐](https://github.com/kor-Chipmunk)|오리엔테이션|백엔드팀 소개와 아이스브레이킹을 진행합니다.|[진행 자료](./Regular-Seminar/20.04.18%201차%20팀모임/진행%20자료/매쉬업백엔드팀오티.pdf)|
+|2020.04.25|[다람쥐](https://github.com/kor-Chipmunk)|1차 팀모임|스프링 부트를 공부해봅시다!|[진행 자료](./Regular-Seminar/20.04.25%202차%20팀모임/진행%20자료/매쉬업백엔드팀2차모임.pdf)|
+|2020.05.09|[다람쥐](https://github.com/kor-Chipmunk)|2차 팀모임|토이 프로젝트 아이디어를 기획해봐요!|[진행 자료](./Regular-Seminar/20.05.09%203차%20팀모임/진행%20자료/매쉬업백엔드팀3차모임.pdf)|
+|2020.05.16|[다람쥐](https://github.com/kor-Chipmunk)|3차 팀모임|토이 프로젝트 설계를 같이 해보아요!|[진행 자료](./Regular-Seminar/20.05.16%204차%20팀모임/진행%20자료/매쉬업백엔드팀4차모임.pdf)|
+|2020.07.04|[다람쥐](https://github.com/kor-Chipmunk)|4차 팀모임|토이 프로젝트 회고||
+|2020.07.11|[다람쥐](https://github.com/kor-Chipmunk)|5차 팀모임|백엔드팀 회의|
+|2020.07.18|[다람쥐](https://github.com/kor-Chipmunk)|6차 팀모임|해커톤 마지막 점검||
+|2020.08.01|[다람쥐](https://github.com/kor-Chipmunk)|7차 팀모임|해커톤 프로젝트 리뷰||
+|2020.08.15|[다람쥐](https://github.com/kor-Chipmunk)|8차 팀모임|취업 토크|[진행 자료](./Regular-Seminar/20.08.15%208차%20팀모임/진행%20자료/매쉬업백엔드팀8차모임.pdf)|
 
 ---
 
