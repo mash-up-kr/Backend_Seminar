@@ -69,3 +69,4 @@
 |2020.08.01|[Yangsiyoung](https://github.com/Yangsiyoung)|SQL Injection|SQL Injection을 알아보자|[발표 자료](./Ten-min-Seminar/20.08.01%20SQL%20Injection/SQL_INJECTION.pdf)|
 |2020.08.15|[Seunghyeon-Kim](https://github.com/Seunghyeon-Kim)|데이터베이스 인덱스|데이터베이스 인덱스 원리를 알아보자|[발표 자료](./Ten-min-Seminar/20.08.15%20데이터베이스%20인덱스/데이터베이스인덱스.pdf)|
 |2020.08.15|[vo0a](https://github.com/vo0a)|MSA|Micro Service Architecture|[발표 자료](./Ten-min-Seminar/20.08.15%20MSA/200815_MSA_김다롬.pdf)|
+|2020.08.15|[YJeongKim](https://github.com/YJeongKim)|RESTful vs GraphQL|RESTful과 GraphQL의 특징과  장단점|[발표 자료](./Ten-min-Seminar/20.08.15%20RESTful%20vs%20GraphQL/RESTful%20vs%20GraphQL.pdf)|
