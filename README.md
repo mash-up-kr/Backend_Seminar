@@ -73,3 +73,4 @@
 |2020.08.15|[YJeongKim](https://github.com/YJeongKim)|RESTful vs GraphQL|RESTful과 GraphQL의 특징과  장단점|[발표 자료](./Ten-min-Seminar/20.08.15%20RESTful%20vs%20GraphQL/RESTful%20vs%20GraphQL.pdf)|
 |2020.08.15|[sdh2398](https://github.com/sdh2398)|Spring REST docs|스프링 REST 독스|[발표 자료](./Ten-min-Seminar/20.08.15%20Spring%20Rest%20Docs/Spring_Rest_Docs.pdf)|
 |2020.08.29|[J-Heee](https://github.com/J-Heee) & [Yangsiyoung](https://github.com/Yangsiyoung)|Servlet & Spring|서블릿과 스프링|[발표 자료](./Ten-min-Seminar/20.08.29%20Servlet%20%26%20Spring/Servlet%26Spring.pdf)|
+|2020.08.29|[kimkyunghun3](https://github.com/kimkyunghun3) & [MiHyunee](https://github.com/MiHyunee)|Java 8 새 문법|Java 8 새로운 기능|[발표 자료](./Ten-min-Seminar/20.08.29%20Java8/Java8.pdf)|
