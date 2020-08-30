@@ -13,12 +13,10 @@
     * 20년 4월 25일의 OAuth 주제의 경우 `20.04.25 OAuth-2.0를 알아보자` 이름으로 폴더를 생성합니다!
   * 발표 자료는 피티 파일과 PDF 파일, 예제 프로젝트 폴더 등을 올려주세요!
 * 커밋 명명은 다음과 같습니다.
-  * 발표자료 생성 커밋 : `:sparkles: OAuth2.0 발표 자료 추가`
+  * 파일 생성 커밋 : `:sparkles: OAuth2.0 발표 자료 추가`
     * `✨ 발표 자료 추가`
-  * 발표자료 수정 커밋 : `:hammer: OAuth2.0 예제 프로젝트 자료 수정`
+  * 파일 수정 커밋 : `:hammer: OAuth2.0 예제 프로젝트 자료 수정`
     * `🔨 프로젝트 자료 수정`
-  * README 파일 수정 : `:zap: 04.25 다람쥐 발표 자료 추가`
-    * `⚡️ 04.25 다람쥐 발표 자료 추가`
   * 기타 Git & Github 설정 : `:card_index: 파일 충돌 해결`
     * `📇 파일 충돌 해결`
 * 아래 자료 리스트에 추가해주시기 바랍니다.
@@ -73,3 +71,4 @@
 |2020.08.15|[YJeongKim](https://github.com/YJeongKim)|RESTful vs GraphQL|RESTful과 GraphQL의 특징과  장단점|[발표 자료](./Ten-min-Seminar/20.08.15%20RESTful%20vs%20GraphQL/RESTful%20vs%20GraphQL.pdf)|
 |2020.08.15|[sdh2398](https://github.com/sdh2398)|Spring REST docs|스프링 REST 독스|[발표 자료](./Ten-min-Seminar/20.08.15%20Spring%20Rest%20Docs/Spring_Rest_Docs.pdf)|
 |2020.08.29|[J-Heee](https://github.com/J-Heee) & [Yangsiyoung](https://github.com/Yangsiyoung)|Servlet & Spring|서블릿과 스프링|[발표 자료](./Ten-min-Seminar/20.08.29%20Servlet%20%26%20Spring/Servlet%26Spring.pdf)|
+|2020.08.29|[kimkyunghun3](https://github.com/kimkyunghun3) & [MiHyunee](https://github.com/MiHyunee)|Java 8 새 문법|Java 8 새로운 기능|[발표 자료](./Ten-min-Seminar/20.08.29%20Java8/Java8.pdf)|
