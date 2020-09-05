@@ -43,6 +43,7 @@
 |2020.08.01|[다람쥐](https://github.com/kor-Chipmunk)|7차 팀모임|해커톤 프로젝트 리뷰||
 |2020.08.15|[다람쥐](https://github.com/kor-Chipmunk)|8차 팀모임|취업 토크|[진행 자료](./Regular-Seminar/20.08.15%208차%20팀모임/진행%20자료/매쉬업백엔드팀8차모임.pdf)|
 |2020.08.29|[다람쥐](https://github.com/kor-Chipmunk)|9차 팀모임|중간 발표 점검|[진행 자료](./Regular-Seminar/20.08.29%209차%20팀모임/진행%20자료/매쉬업백엔드팀9차모임.pdf)|
+|2020.09.05|[다람쥐](https://github.com/kor-Chipmunk)|10차 팀모임|세미나|[진행 자료](./Regular-Seminar/20.09.05%2010차%20팀모임/진행%20자료/매쉬업백엔드팀10차모임.pdf)|
 
 ---
 
