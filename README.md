@@ -75,3 +75,5 @@
 |2020.08.29|[kimkyunghun3](https://github.com/kimkyunghun3) & [MiHyunee](https://github.com/MiHyunee)|Java 8 새 문법|Java 8 새로운 기능|[발표 자료](./Ten-min-Seminar/20.08.29%20Java8/Java8.pdf)|
 |2020.09.05|[vo0a](https://github.com/vo0a)|시간 복잡도|시간 복잡도 이론|[발표 자료](./Ten-min-Seminar/20.09.05%20시간복잡도/시간%20복잡도.pdf)|
 |2020.09.05|[다람쥐](https://github.com/kor-Chipmunk) & [jiss02](https://github.com/jiss02)|데이터베이스 샤딩|데이터베이스 샤딩의 원리와 스프링에서 어떻게 적용하는지|[발표 자료](./Ten-min-Seminar/20.09.05%20샤딩/데이터베이스%20샤딩.pdf)|
+|2020.09.05|[J-Heee](https://github.com/J-Heee)|API vs Library vs Framework|개념 정확히 익히기|[발표 자료](./Ten-min-Seminar/20.09.05%20API%20vs%20Library%20vs%20Framework/API%20vs%20Library%20vs%20Framework.pdf)|
+|2020.09.05|[YJeongKim](https://github.com/YJeongKim)|JVM 구조와 Stack & Heap|JVM 구조 알아보기|[발표 자료](./Ten-min-Seminar/20.08.29%20JVM의%20구조와%20Stack%26Heap/JVM의%20구조와%20Stack%26Heap.pdf)|
