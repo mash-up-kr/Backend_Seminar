@@ -72,3 +72,4 @@
 |2020.08.15|[sdh2398](https://github.com/sdh2398)|Spring REST docs|스프링 REST 독스|[발표 자료](./Ten-min-Seminar/20.08.15%20Spring%20Rest%20Docs/Spring_Rest_Docs.pdf)|
 |2020.08.29|[J-Heee](https://github.com/J-Heee) & [Yangsiyoung](https://github.com/Yangsiyoung)|Servlet & Spring|서블릿과 스프링|[발표 자료](./Ten-min-Seminar/20.08.29%20Servlet%20%26%20Spring/Servlet%26Spring.pdf)|
 |2020.08.29|[kimkyunghun3](https://github.com/kimkyunghun3) & [MiHyunee](https://github.com/MiHyunee)|Java 8 새 문법|Java 8 새로운 기능|[발표 자료](./Ten-min-Seminar/20.08.29%20Java8/Java8.pdf)|
+|2020.09.05|[vo0a](https://github.com/vo0a)|시간 복잡도|시간 복잡도 이론|[발표 자료](./Ten-min-Seminar/20.09.05%20시간복잡도/시간%20복잡도.pdf)|
