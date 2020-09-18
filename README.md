@@ -63,7 +63,7 @@
 |2020.07.11|[JaeHyeonKim19](https://github.com/JaeHyeonKim19)|트랜잭션|트랜잭션과 격리수준에 대해서 알아보자|[발표 자료](./Ten-min-Seminar/20.07.11%20isolation-level/isolation-level.pdf)|
 |2020.07.11|[pengin7384](https://github.com/pengin7384)|블록체인|블록체인의 원리를 알아보자|[발표 자료](./Ten-min-Seminar/20.07.11%20블록체인/블록체인.pdf)|
 |2020.07.11|[Yangsiyoung](https://github.com/Yangsiyoung)|인증과 인가|스프링에선 인증과 인가를 어떻게 할까|[발표 자료](./Ten-min-Seminar/20.07.11%20인증과%20인가/인증인가.pdf)|
-|2020.07.18|[pengin7384](https://github.com/pengin7384) [ihaeeun](https://github.com/ihaeeun)|HTTPS|TLS 보안과 HTTPS 통신 방법|[발표 자료](./Ten-min-Seminar/20.07.18%20HTTPS/HTTPS.pdf)|
+|2020.07.18|[pengin7384](https://github.com/pengin7384) & [ihaeeun](https://github.com/ihaeeun)|HTTPS|TLS 보안과 HTTPS 통신 방법|[발표 자료](./Ten-min-Seminar/20.07.18%20HTTPS/HTTPS.pdf)|
 |2020.07.18|[kwonsye](https://github.com/kwonsye)|Java GC|Garbage Collection 동작 원리|[발표 자료](./Ten-min-Seminar/20.07.18%20GC/GC.pptx)|
 |2020.07.18|[MiHyunee](https://github.com/MiHyunee)|DTO vs VO|DTO와 VO의 차이점|[발표 자료](./Ten-min-Seminar/20.07.18%20DTO%20vs%20VO/20.07.18%20DTO%20vs%20VO.pdf)|
 |2020.08.01|[pengin7384](https://github.com/pengin7384)|유해 사이트 차단과 우회|네트워크단에서 어떻게 처리하는지 알아보자|[발표 자료](./Ten-min-Seminar/20.08.01%20유해사이트%20차단과%20우회/유해%20사이트%20차단과%20우회.pptx)|
@@ -75,6 +75,7 @@
 |2020.08.29|[J-Heee](https://github.com/J-Heee) & [Yangsiyoung](https://github.com/Yangsiyoung)|Servlet & Spring|서블릿과 스프링|[발표 자료](./Ten-min-Seminar/20.08.29%20Servlet%20%26%20Spring/Servlet%26Spring.pdf)|
 |2020.08.29|[kimkyunghun3](https://github.com/kimkyunghun3) & [MiHyunee](https://github.com/MiHyunee)|Java 8 새 문법|Java 8 새로운 기능|[발표 자료](./Ten-min-Seminar/20.08.29%20Java8/Java8.pdf)|
 |2020.09.05|[vo0a](https://github.com/vo0a)|시간 복잡도|시간 복잡도 이론|[발표 자료](./Ten-min-Seminar/20.09.05%20시간복잡도/시간%20복잡도.pdf)|
+|2020.09.05|[다람쥐](https://github.com/kor-Chipmunk) & [jiss02](https://github.com/jiss02)|데이터베이스 샤딩|데이터베이스 샤딩의 원리와 스프링에서 어떻게 적용하는지|[발표 자료](./Ten-min-Seminar/20.09.05%20샤딩/데이터베이스%20샤딩.pdf)|
 |2020.09.19|[secureWKkim](https://github.com/secureWKkim)|언어 비교 분석|Go, Java, C++, python|[발표 자료](#)|
 |2020.09.19|[secureWKkim](https://github.com/secureWKkim)|가상화 & 컨테이너 기술|Docker & Kubernetes. Devops & CI/CD|[발표 자료](#)|
 |2020.09.19|[Seunghyeon-Kim](https://github.com/Seunghyeon-Kim)|인터럽트와 컨텍스트 스위칭||[발표 자료](#)|
