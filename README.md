@@ -44,6 +44,7 @@
 |2020.08.15|[다람쥐](https://github.com/kor-Chipmunk)|8차 팀모임|취업 토크|[진행 자료](./Regular-Seminar/20.08.15%208차%20팀모임/진행%20자료/매쉬업백엔드팀8차모임.pdf)|
 |2020.08.29|[다람쥐](https://github.com/kor-Chipmunk)|9차 팀모임|중간 발표 점검|[진행 자료](./Regular-Seminar/20.08.29%209차%20팀모임/진행%20자료/매쉬업백엔드팀9차모임.pdf)|
 |2020.09.05|[다람쥐](https://github.com/kor-Chipmunk)|10차 팀모임|세미나|[진행 자료](./Regular-Seminar/20.09.05%2010차%20팀모임/진행%20자료/매쉬업백엔드팀10차모임.pdf)|
+|2020.09.19|[다람쥐](https://github.com/kor-Chipmunk)|11차 팀모임|세미나|[진행 자료](./Regular-Seminar/20.09.19%2011차%20팀모임/진행%20자료/매쉬업백엔드팀11차모임.pdf)|
 
 ---
 
@@ -74,3 +75,9 @@
 |2020.08.29|[J-Heee](https://github.com/J-Heee) & [Yangsiyoung](https://github.com/Yangsiyoung)|Servlet & Spring|서블릿과 스프링|[발표 자료](./Ten-min-Seminar/20.08.29%20Servlet%20%26%20Spring/Servlet%26Spring.pdf)|
 |2020.08.29|[kimkyunghun3](https://github.com/kimkyunghun3) & [MiHyunee](https://github.com/MiHyunee)|Java 8 새 문법|Java 8 새로운 기능|[발표 자료](./Ten-min-Seminar/20.08.29%20Java8/Java8.pdf)|
 |2020.09.05|[vo0a](https://github.com/vo0a)|시간 복잡도|시간 복잡도 이론|[발표 자료](./Ten-min-Seminar/20.09.05%20시간복잡도/시간%20복잡도.pdf)|
+|2020.09.19|[secureWKkim](https://github.com/secureWKkim)|언어 비교 분석|Go, Java, C++, python|[발표 자료](#)|
+|2020.09.19|[secureWKkim](https://github.com/secureWKkim)|가상화 & 컨테이너 기술|Docker & Kubernetes. Devops & CI/CD|[발표 자료](#)|
+|2020.09.19|[Seunghyeon-Kim](https://github.com/Seunghyeon-Kim)|인터럽트와 컨텍스트 스위칭||[발표 자료](#)|
+|2020.09.19|[Seunghyeon-Kim](https://github.com/Seunghyeon-Kim) & [vo0a](https://github.com/vo0a)|AOP|Advice, Target, Pointcut|[발표 자료](#)|
+|2020.09.19|[YJeongKim](https://github.com/YJeongKim)|Cache||[발표 자료](#)|
+|2020.09.19|[kimkyunghun3](https://github.com/kimkyunghun3)|OSI 7 Layer|OSI7 계층을 알아보자|[발표 자료](#)|
