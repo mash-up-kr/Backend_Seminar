@@ -81,7 +81,7 @@
 |2020.09.19|[secureWKkim](https://github.com/secureWKkim)|언어 비교 분석|Go, Java, C++, python|[발표 자료](#)|
 |2020.09.19|[secureWKkim](https://github.com/secureWKkim)|가상화 & 컨테이너 기술|Docker & Kubernetes. Devops & CI/CD|[발표 자료](#)|
 |2020.09.19|[Seunghyeon-Kim](https://github.com/Seunghyeon-Kim)|인터럽트와 컨텍스트 스위칭||[발표 자료](#)|
-|2020.09.19|[Seunghyeon-Kim](https://github.com/Seunghyeon-Kim) & [vo0a](https://github.com/vo0a)|AOP|Advice, Target, Pointcut|[발표 자료](#)|
+|2020.09.19|[Seunghyeon-Kim](https://github.com/Seunghyeon-Kim) & [vo0a](https://github.com/vo0a)|AOP|Advice, Target, Pointcut|[발표 자료](./Ten-min-Seminar/20.09.19%20AOP/200918%20AOP.pdf)|
 |2020.09.19|[YJeongKim](https://github.com/YJeongKim)|Cache||[발표 자료](#)|
 |2020.09.19|[kimkyunghun3](https://github.com/kimkyunghun3)|OSI 7 Layer|OSI7 계층을 알아보자|[발표 자료](#)|
 |2020.09.19|[ssseungzz](https://github.com/ssseungzz)|Interrupt & Context Switching|인터럽트와 컨텍스트 스위칭|[발표 자료](./Ten-min-Seminar/20.09.19%20인터럽트와%20컨텍스트%20스위칭/interrupt_context_switching.pdf)|
