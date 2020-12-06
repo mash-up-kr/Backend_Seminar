@@ -22,6 +22,7 @@
 SourceTree 프로그램을 실행해 계정을 추가해줍니다.  
 <br>
 ![.GIT](./images/8.%20Github%20clone%20https.PNG)
+![file](./images/9.%20_SourceTree%20File.PNG)
 ![clone](./images/9.%20SourceTree%20Clone.PNG)
 본인 소유의 Seminar 레포의 .git 파일 주소를 가져와 로컬로 클론합니다.  
 <br>
@@ -84,6 +85,8 @@ PR 페이지는 내 소유의 레포에서 `Pull requests` 탭을 클릭하면 �
 
 ![PR Success](./images/16.%20PR%20Success.PNG)
 
+매쉬업 소유의 백엔드팀 브랜치를 본인의 팀 브랜치로 선택합니다.  
+예시로 10기 노드팀은 `10th-node` 라는 브랜치를 사용합니다. 따라서 좌측 `base` 브랜치를 `10th-node` 로 설정합니다.  
 백엔드팀 레포로 내 변경 사항들을 넣을 수 있을 때, `Able to merge.` 메시지가 나타납니다.  
 이 때, `Create pull request` 버튼을 누르면 백엔드팀 레포의 `Pull requests` 페이지로 이동됩니다.
 
@@ -114,10 +117,12 @@ Preview 탭에서 작성한 마크다운이 어떻게 나오는지 확인이 가
 이를 해결하기 위해 백엔드팀 레포로부터 변경 사항들을 가져와야 합니다.  
 이 때, 백엔드팀 레포를 보통 `upstream` 이라고 합니다.  
 
+![Upstream 1](./images/22.%20_Upstream1.PNG)
 ![Upstream 1](./images/22.%20Upstream1.PNG)
 
 Sourcetree 프로그램에서 `upstream` 원격 저장소를 생성합니다.  
-`저장소 메뉴` -> `저장소 설정(Shift + Ctrl + ,)` 메뉴를 클릭합니다.  
+첫 번째 사진은 좌측 `원격` 트리에 우측 마우스로 `새 원격...` 메뉴를 클릭합니다.  
+두 번째 사진은 `저장소 메뉴` -> `저장소 설정(Shift + Ctrl + ,)` 메뉴를 클릭합니다.  
 원격 저장소 경로를 추가합니다.  
 
 ![Upstream 2](./images/23.%20Upstream2.PNG)
@@ -133,10 +138,14 @@ Sourcetree 프로그램에서 `upstream` 원격 저장소를 생성합니다.
 
 브랜치 목록에서 `upstream/master` 브랜치로부터 가져온 커밋 항목을 오른쪽 마우스 버튼을 눌러 병합 메뉴를 누릅니다.  
 
+또는 원격 트리에서 팀 브랜치에서 우측 버튼으로 `upstream/[팀 브랜치]를 master` 로 가져오기 메뉴를 누릅니다.
+
+![Upstream menu2](./images/24.%20_Upstream%20menu.PNG)
+
 ![Conflict](./images/26.%20Conflict.PNG)
 
 로컬 파일과 Upstream 파일이 일치하지 않기에, 충돌이 발생합니다.  
-파일 내용을 보면
+파일 내용을 보면    
 
 ```
 <<<<<<< HEAD
