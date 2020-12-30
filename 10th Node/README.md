@@ -57,3 +57,4 @@
 |2021.01.01|[다람쥐](https://github.com/kor-Chipmunk)|제목|설명|[발표 자료](./Ten-min-Seminar)|
 |2020.12.12|[다람쥐](https://github.com/kor-Chipmunk)|EVENT LOOP|Node.js 핵심 요소인 이벤트 루프|[발표 자료](./Ten-min-Seminar/20.12.12%20EVENTLOOP/EVENT%20LOOP.pdf)|
 |2020.12.12|[swimjiy](https://github.com/swimjiy)|실행 컨텍스트|실행 컨텍스트의 개념 및 생성 과정|[발표 자료](./Ten-min-Seminar/20.12.12%20EXECUTION%20CONTEXT/EXECUTION%20CONTEXT.pdf)|
+|2021.01.02|[shin](https://github.com/nari1021)|Serverless|Serverless의 정의 및 장단점|[발표 자료](./Ten-min-Seminar/21.01.02%20Serverless/Serverless.pdf)|
