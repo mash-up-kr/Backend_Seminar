@@ -48,7 +48,7 @@
 |2021.01.01|[다람쥐](https://github.com/kor-Chipmunk)|제목|설명|[진행 자료](./Regular-Seminar)|
 |2020.12.05|[다람쥐](https://github.com/kor-Chipmunk)|1차 팀모임|Node.js 교과서 1~3장 리뷰|[진행 자료](./Regular-Seminar/20.12.05%201차%20팀모임/진행%20자료/매쉬업노드팀1차모임.pdf)|
 |2020.12.12|[다람쥐](https://github.com/kor-Chipmunk)|2차 팀모임|Node.js 교과서 4~6장 리뷰|[진행 자료](./Regular-Seminar/20.12.12%202차%20팀모임/진행%20자료/매쉬업노드팀2차모임.pdf)|
-|2021.1.2|[다람쥐](https://github.com/kor-Chipmunk)|3차 팀모임|Node.js 교과서 7~10장 리뷰|[진행 자료](./Regular-Seminar/21.1.2%203차%20팀모임/진행%20자료/매쉬업노드팀3차모임.pdf)|
+|2021.1.2|[다람쥐](https://github.com/kor-Chipmunk)|3차 팀모임|Node.js 교과서 7~10장 리뷰|[진행 자료](./Regular-Seminar/21.01.02%203차%20팀모임/진행%20자료/매쉬업노드팀3차모임.pdf)|
 
 ---
 
