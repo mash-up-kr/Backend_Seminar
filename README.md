@@ -4,9 +4,9 @@
 # 🚀 참여 팀 목록
 |기수|팀 이름|스태프|브랜치|
 |---|---|---|---|
-|9기|스프링팀|[다람쥐](https://github.com/kor-Chipmunk), [kimkyunghun3](https://github.com/kimkyunghun3)|[9th-spring](https://github.com/mash-up-kr/Backend_Seminar/tree/9th-spring)|
-|10기|스프링팀|[ssseungzz](https://github.com/ssseungzz), [리다양](https://github.com/Yangsiyoung)|[10th-spring](https://github.com/mash-up-kr/Backend_Seminar/tree/10th-spring)|
-|10기|노드팀|[펭귄](https://github.com/pengin7384), [다람쥐](https://github.com/kor-Chipmunk)|[10th-node](https://github.com/mash-up-kr/Backend_Seminar/tree/10th-node)|
+|9기|스프링팀|[다람쥐](https://github.com/kor-Chipmunk), [kimkyunghun3](https://github.com/kimkyunghun3)|[9th-spring](https://github.com/mash-up-kr/Backend_Seminar/tree/9th-spring/9th%20Spring)|
+|10기|스프링팀|[ssseungzz](https://github.com/ssseungzz), [리다양](https://github.com/Yangsiyoung)|[10th-spring](https://github.com/mash-up-kr/Backend_Seminar/tree/10th-spring/10th%20Spring)|
+|10기|노드팀|[펭귄](https://github.com/pengin7384), [다람쥐](https://github.com/kor-Chipmunk)|[10th-node](https://github.com/mash-up-kr/Backend_Seminar/tree/10th-node/10th%20Node)|
 
 # ⭐️ 자료 공유 방법
 * `master` 브랜치 또는 `[기수]th-[팀이름]` 팀 브랜치를 `Fork` 하여  자신의 레포로 옮깁니다.  
