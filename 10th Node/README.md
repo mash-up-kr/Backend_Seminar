@@ -48,6 +48,9 @@
 |2021.01.01|[다람쥐](https://github.com/kor-Chipmunk)|제목|설명|[진행 자료](./Regular-Seminar)|
 |2020.12.05|[다람쥐](https://github.com/kor-Chipmunk)|1차 팀모임|Node.js 교과서 1~3장 리뷰|[진행 자료](./Regular-Seminar/20.12.05%201차%20팀모임/진행%20자료/매쉬업노드팀1차모임.pdf)|
 |2020.12.12|[다람쥐](https://github.com/kor-Chipmunk)|2차 팀모임|Node.js 교과서 4~6장 리뷰|[진행 자료](./Regular-Seminar/20.12.12%202차%20팀모임/진행%20자료/매쉬업노드팀2차모임.pdf)|
+|2021.1.2|[다람쥐](https://github.com/kor-Chipmunk)|3차 팀모임|Node.js 교과서 7~10장 리뷰|[진행 자료](./Regular-Seminar/21.01.02%203차%20팀모임/진행%20자료/매쉬업노드팀3차모임.pdf)|
+|2021.1.9|[다람쥐](https://github.com/kor-Chipmunk)|4차 팀모임|보일러 프로젝트 계획|[진행 자료](./Regular-Seminar/21.01.09%204차%20팀모임/진행%20자료/매쉬업노드팀4차모임.pdf)|
+|2021.1.23|[다람쥐](https://github.com/kor-Chipmunk)|5차 팀모임|보일러 프로젝트 중간 점검|[진행 자료](./Regular-Seminar/21.01.23%205차%20팀모임/진행%20자료/매쉬업노드팀5차모임.pdf)|
 
 ---
 
@@ -58,4 +61,8 @@
 |2020.12.12|[다람쥐](https://github.com/kor-Chipmunk)|EVENT LOOP|Node.js 핵심 요소인 이벤트 루프|[발표 자료](./Ten-min-Seminar/20.12.12%20EVENTLOOP/EVENT%20LOOP.pdf)|
 |2020.12.12|[swimjiy](https://github.com/swimjiy)|실행 컨텍스트|실행 컨텍스트의 개념 및 생성 과정|[발표 자료](./Ten-min-Seminar/20.12.12%20EXECUTION%20CONTEXT/EXECUTION%20CONTEXT.pdf)|
 |2021.01.02|[shin](https://github.com/nari1021)|Serverless|Serverless의 정의 및 장단점|[발표 자료](./Ten-min-Seminar/21.01.02%20Serverless/Serverless.pdf)|
+|2021.01.02|[다람쥐](https://github.com/kor-Chipmunk)|WebSocket|WebSocket 사용법 알아보기|[발표 자료](./Ten-min-Seminar/21.01.02%20WebSocket/Web%20Socket.pdf)|
+|2021.01.09|[batboy118](https://github.com/batboy118)|OAuth 2.0|OAuth 2.0|[발표 자료](./Ten-min-Seminar/21.01.09%20OAuth2.0/OAuth2.0.pdf)|
+|2021.01.09|[pengin7384](https://github.com/pengin7384)|Deno.js|귀여운 Deno.js 를 알아보자|[발표 자료](./Ten-min-Seminar/21.01.09%20Denojs/Deno.js.pdf)
+|2021.01.09|[다람쥐](https://github.com/kor-Chipmunk)|AWS 탐험기|AWS 인프라 작업 탐험기|[발표 자료](./Ten-min-Seminar/21.01.09%20AWS%20탐험기/AWS%20탐험기.pdf)|
 |2021.01.23|[shin](https://github.com/nari1021)|CORS|CORS의 개념 및 요청 방법|[발표 자료](./Ten-min-Seminar/21.01.23%20CORS/CORS.pdf)|
