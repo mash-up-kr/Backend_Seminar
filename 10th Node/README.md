@@ -69,4 +69,4 @@
 |2021.01.23|[shin](https://github.com/nari1021)|CORS|CORS의 개념 및 요청 방법|[발표 자료](./Ten-min-Seminar/21.01.23%20CORS/CORS.pdf)|
 |2021.01.23|[sohyeong-dev](https://github.com/sohyeong-dev)|REST API vs GraphQL|REST API와 GraphQL 특징, 장단점|[발표 자료](.//Ten-min-Seminar/21.01.23%20REST%20API%20vs%20GraphQL/REST%20API%20vs%20GraphQL.pdf)|
 |2021.02.06|[jiss02](https://github.com/jiss02)|Libuv|Libuv 동작 원리|[발표 자료](./Ten-min-Seminar/)|
-|2021.02.06|[swimjiy](https://github.com/swimjiy)|Callback, Promise, async/await|비동기 3대장 바로알기|[발표 자료](./Ten-min-Seminar/)|
+|2021.02.06|[swimjiy](https://github.com/swimjiy)|Callback, Promise, async/await|비동기 3대장 바로알기|[발표 자료](./Ten-min-Seminar/21.02.06%20Callback/Callback.pdf)|
