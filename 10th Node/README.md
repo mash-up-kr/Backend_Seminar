@@ -52,6 +52,7 @@
 |2021.01.09|[다람쥐](https://github.com/kor-Chipmunk)|4차 팀모임|보일러 프로젝트 계획|[진행 자료](./Regular-Seminar/21.01.09%204차%20팀모임/진행%20자료/매쉬업노드팀4차모임.pdf)|
 |2021.01.23|[다람쥐](https://github.com/kor-Chipmunk)|5차 팀모임|보일러 프로젝트 중간 점검|[진행 자료](./Regular-Seminar/21.01.23%205차%20팀모임/진행%20자료/매쉬업노드팀5차모임.pdf)|
 |2021.02.06|[펭귄](https://github.com/pengin7384)|6차 팀모임|보일러 프로젝트 최종 점검||
+|2021.02.20|[다람쥐](https://github.com/kor-Chipmunk)|7차 팀모임|서버리스 스터디|[진행 자료](./Regular-Seminar/21.02.20%207차%20팀모임/진행%20자료/매쉬업노드팀7차모임.pdf)|
 
 ---
 
@@ -70,3 +71,5 @@
 |2021.01.23|[sohyeong-dev](https://github.com/sohyeong-dev)|REST API vs GraphQL|REST API와 GraphQL 특징, 장단점|[발표 자료](.//Ten-min-Seminar/21.01.23%20REST%20API%20vs%20GraphQL/REST%20API%20vs%20GraphQL.pdf)|
 |2021.02.06|[jiss02](https://github.com/jiss02)|Libuv|Libuv 동작 원리|[발표 자료](./Ten-min-Seminar/21.02.06%20Libuv/libuv.pdf)|
 |2021.02.06|[swimjiy](https://github.com/swimjiy)|Callback, Promise, async/await|비동기 3대장 바로알기|[발표 자료](./Ten-min-Seminar/21.02.06%20Callback/Callback.pdf)|
+|2021.02.20|[다람쥐](https://github.com/kor-Chipmunk)|Continuous Deploy|CD를 실천해보자|[발표 자료](./Ten-min-Seminar/21.02.20%20Continuous%20Deploy/Continuous%20Deployment.pdf)|
+|2021.02.20|[다람쥐](https://github.com/kor-Chipmunk)|Sequelize Migration|데이터베이스 마이그레이션이 뭘까?|[발표 자료](./Ten-min-Seminar/21.02.20%20Sequelize%20Migration/Sequelize%20Migration.pdf)|
