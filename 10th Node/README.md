@@ -73,3 +73,4 @@
 |2021.02.06|[swimjiy](https://github.com/swimjiy)|Callback, Promise, async/await|비동기 3대장 바로알기|[발표 자료](./Ten-min-Seminar/21.02.06%20Callback/Callback.pdf)|
 |2021.02.20|[다람쥐](https://github.com/kor-Chipmunk)|Continuous Deploy|CD를 실천해보자|[발표 자료](./Ten-min-Seminar/21.02.20%20Continuous%20Deploy/Continuous%20Deployment.pdf)|
 |2021.02.20|[다람쥐](https://github.com/kor-Chipmunk)|Sequelize Migration|데이터베이스 마이그레이션이 뭘까?|[발표 자료](./Ten-min-Seminar/21.02.20%20Sequelize%20Migration/Sequelize%20Migration.pdf)|
+|2021.03.13|[batboy118](https://github.com/batboy118)|JWT|JWT|[발표 자료](./Ten-min-Seminar/21.03.13%20JWT/JWT.pdf)|
