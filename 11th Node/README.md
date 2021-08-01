@@ -46,7 +46,7 @@
 |날짜|진행자|제목|설명|링크|
 |---|---|---|---|---|
 |2021.01.01|[다람쥐](https://github.com/kor-Chipmunk)|제목|설명|[진행 자료](./Regular-Seminar)|
-|2021.07.24|[다람쥐](https://github.com/kor-Chipmunk)|1차 팀모임|nestjs 1주차 리뷰|[진행 자료](./Regular-Seminar/21.07.17%201차%20팀모임/진행%20자료/매쉬업노드팀1차모임.pdf)|
+|2021.07.24|[다람쥐](https://github.com/kor-Chipmunk)|1차 팀모임|nestjs 1주차 리뷰|[진행 자료](./Regular-Seminar/21.07.24%201차%20팀모임/진행%20자료/매쉬업노드팀1차모임.pdf)|
 
 ---
 
