@@ -60,5 +60,5 @@
 |2021.07.31|[karl](https://github.com/minidonut)|Typescript Advanced Type|타입스크립트 타입 심화|[발표 자료](./Ten-min-Seminar/21.07.31%20Typescript%20advanced%20type/Typescript%20advanced%20type.pdf)|
 |2021.08.07|[turastory](https://github.com/turastory)|Yarn Berry|Yarn Berry(v2) 소개|[발표 자료](./Ten-min-Seminar/21.08.07%20Yarn%20Berry/Yarn%20Berry.pdf)|
 |2021.08.07|[AlwaysLee](https://github.com/AlwaysLee-12)|웹서버 v.s. WAS|웹서버와 WAS의 차이점|[발표 자료](./)|
-|2021.08.07|[](https://github.com/)|Kubernetes|쿠버네티스|[발표 자료](./)|
+|2021.08.07|[colin950](https://github.com/colin950)|Kubernetes|쿠버네티스|[발표 자료](./)|
 |2021.08.07|[다람쥐](https://github.com/kor-Chipmunk)|Auto-renewable in-app purchase in backend|인앱 자동갱신 구독 상품을 백엔드에서 어떻게 처리할까|[발표 자료](./Ten-min-Seminar/21.08.07%20Auto%20renewable%20in%20app%20purchase%20in%20backend/구독%20인앱결제.pdf)|
