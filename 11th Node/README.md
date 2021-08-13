@@ -49,6 +49,7 @@
 |2021.07.24|[다람쥐](https://github.com/kor-Chipmunk)|1차 팀모임|nestjs 1주차 리뷰|[진행 자료](./Regular-Seminar/21.07.24%201차%20팀모임/진행%20자료/매쉬업노드팀1차모임.pdf)|
 |2021.07.31|[다람쥐](https://github.com/kor-Chipmunk)|2차 팀모임|nestjs 2주차 리뷰|[진행 자료](./Regular-Seminar/21.07.31%202차%20팀모임/진행%20자료/매쉬업노드팀2차모임.pdf)|
 |2021.08.07|[다람쥐](https://github.com/kor-Chipmunk)|3차 팀모임|nestjs 3주차 리뷰|[진행 자료](./Regular-Seminar/21.08.07%203차%20팀모임/진행%20자료/매쉬업노드팀3차모임.pdf)|
+|2021.08.14|[다람쥐](https://github.com/kor-Chipmunk)|4차 팀모임|nestjs 4주차 리뷰|[진행 자료](./Regular-Seminar/21.08.14%204차%20팀모임/진행%20자료/매쉬업노드팀4차모임.pdf)|
 ---
 
 ## 10분 세미나
