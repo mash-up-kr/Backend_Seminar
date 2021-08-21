@@ -67,3 +67,6 @@
 |2021.08.14|[pengin7384](https://github.com/pengin7384)|DNS|DNS 정의와 과정|[발표 자료](./Ten-min-Seminar/21.08.14%20DNS/DNS.pdf)|
 |2021.08.14|[hyeon-aa](https://github.com/hyeon-aa)|DFS & BFS|DFS & BFS 정의와 원리|[발표 자료](./Ten-min-Seminar/21.08.14%20BFS%26DFS/BFS%20%26%20DFS.pdf)|
 |2021.08.14|[god9599](https://github.com/god9599)|Transaction|트랜잭션 정의와 원리|[발표 자료](./Ten-min-Seminar/21.08.14%20Transaction/Transaction.pdf)|
+|2021.08.21|[nari1021](https://github.com/pengin7384)|CORS|CORS 원리|[발표 자료](./Ten-min-Seminar/21.08.21%20CORS/CORS.pdf)|
+|2021.08.21|[haron47](https://github.com/haron47)|정규 표현식|정규 표현식 소개와 예시|[발표 자료](./Ten-min-Seminar/21.08.21%20Regex/정규표현식.pdf)|
+|2021.08.21|[sohyeong-dev](https://github.com/sohyeong-dev)|API v.s. Library v.s. Framework|각각의 정의와 차이점을 알아보자|[발표 자료](./)|
