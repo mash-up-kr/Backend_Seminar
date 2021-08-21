@@ -64,7 +64,7 @@
 |2021.08.07|[AlwaysLee](https://github.com/AlwaysLee-12)|웹서버 v.s. WAS|웹서버와 WAS의 차이점|[발표 자료](./Ten-min-Seminar/21.08.07%20웹서버%20VS%20WAS/웹서버%20VS%20WAS.md)|
 |2021.08.07|[colin950](https://github.com/colin950)|Kubernetes|쿠버네티스|[발표 자료](./Ten-min-Seminar/21.08.07%20k8s/k8s.pdf)|
 |2021.08.07|[다람쥐](https://github.com/kor-Chipmunk)|Auto-renewable in-app purchase in backend|인앱 자동갱신 구독 상품을 백엔드에서 어떻게 처리할까|[발표 자료](./Ten-min-Seminar/21.08.07%20Auto%20renewable%20in%20app%20purchase%20in%20backend/구독%20인앱결제.pdf)|
-|2021.08.14|[pengin7384](https://github.com/pengin7384)|DNS|DNS 정의와 과정|[발표 자료](./Ten-min-Seminar/21.08.14%20DNS/DNS.pdf)|
+|2021.08.14|[펭긴](https://github.com/pengin7384)|DNS|DNS 정의와 과정|[발표 자료](./Ten-min-Seminar/21.08.14%20DNS/DNS.pdf)|
 |2021.08.14|[hyeon-aa](https://github.com/hyeon-aa)|DFS & BFS|DFS & BFS 정의와 원리|[발표 자료](./Ten-min-Seminar/21.08.14%20BFS%26DFS/BFS%20%26%20DFS.pdf)|
 |2021.08.14|[god9599](https://github.com/god9599)|Transaction|트랜잭션 정의와 원리|[발표 자료](./Ten-min-Seminar/21.08.14%20Transaction/Transaction.pdf)|
 |2021.08.21|[nari1021](https://github.com/pengin7384)|CORS|CORS 원리|[발표 자료](./Ten-min-Seminar/21.08.21%20CORS/CORS.pdf)|
