@@ -52,6 +52,8 @@
 |2021.08.14|[다람쥐](https://github.com/kor-Chipmunk)|4차 팀모임|nestjs 4주차 리뷰|[진행 자료](./Regular-Seminar/21.08.14%204차%20팀모임/진행%20자료/매쉬업노드팀4차모임.pdf)|
 |2021.08.21|[다람쥐](https://github.com/kor-Chipmunk)|5차 팀모임|nestjs 5주차 리뷰 & 토이 프로젝트 공지|[진행 자료](./Regular-Seminar/21.08.21%205차%20팀모임/진행%20자료/매쉬업노드팀5차모임.pdf)|
 |2021.08.28|[다람쥐](https://github.com/kor-Chipmunk)|6차 팀모임|토이 프로젝트 중간 점검|[진행 자료](./Regular-Seminar/21.08.28%206차%20팀모임/진행%20자료/매쉬업노드팀6차모임.pdf)|
+|2021.09.11|[다람쥐](https://github.com/kor-Chipmunk)|7차 팀모임|토이 프로젝트 중간 점검|[진행 자료](./Regular-Seminar/21.09.11%207차%20팀모임/진행%20자료/매쉬업노드팀7차모임.pdf)|
+|2021.09.25|[다람쥐](https://github.com/kor-Chipmunk)|8차 팀모임|토이 프로젝트 중간 점검|[진행 자료](./Regular-Seminar/21.09.25%208차%20팀모임/진행%20자료/매쉬업노드팀8차모임.pdf)|
 ---
 
 ## 10분 세미나
@@ -72,3 +74,7 @@
 |2021.08.21|[haron47](https://github.com/haron47)|정규 표현식|정규 표현식 소개와 예시|[발표 자료](./Ten-min-Seminar/21.08.21%20Regex/정규표현식.pdf)|
 |2021.08.21|[sohyeong-dev](https://github.com/sohyeong-dev)|API v.s. Library v.s. Framework|각각의 정의와 차이점을 알아보자|[발표 자료](./Ten-min-Seminar/21.08.21%20API%20vs%20Library%20vs%20Framework/API%20vs%20Library%20vs%20Framework.pdf)|
 |2021.08.28|[swimjiy](https://github.com/swimjiy)|HTTP|HTTP의 역사와 QUIC 소개|[발표 자료](./Ten-min-Seminar/21.08.28%20HTTP/HTTP.pdf)|
+|2021.08.28|[ujusy](https://github.com/ujusy)|Monolithic Architecture|모놀리틱 아키텍처|[발표 자료](./Ten-min-Seminar/21.08.28%20Monolithic%20Architecture/Monolithic%20Architecture.pdf)|
+|2021.09.11|[haron47](https://github.com/haron47)|Validation|Nestjs Validation|[발표 자료](./Ten-min-Seminar/21.09.11%20Validation/Validation.pdf)|
+|2021.09.11|[AlwaysLee](https://github.com/AlwaysLee)|Compression|Nestjs Compression|[발표 자료](./Ten-min-Seminar/21.09.11%20Compression/Compression.pdf)|
+|2021.09.11|[펭긴](https://github.com/pengin7384)|Logger|Nestjs Logger|[발표 자료](./Ten-min-Seminar/21.09.11%20Logger/Logger.pdf)|
