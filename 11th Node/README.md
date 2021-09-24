@@ -52,8 +52,8 @@
 |2021.08.14|[다람쥐](https://github.com/kor-Chipmunk)|4차 팀모임|nestjs 4주차 리뷰|[진행 자료](./Regular-Seminar/21.08.14%204차%20팀모임/진행%20자료/매쉬업노드팀4차모임.pdf)|
 |2021.08.21|[다람쥐](https://github.com/kor-Chipmunk)|5차 팀모임|nestjs 5주차 리뷰 & 토이 프로젝트 공지|[진행 자료](./Regular-Seminar/21.08.21%205차%20팀모임/진행%20자료/매쉬업노드팀5차모임.pdf)|
 |2021.08.28|[다람쥐](https://github.com/kor-Chipmunk)|6차 팀모임|토이 프로젝트 중간 점검|[진행 자료](./Regular-Seminar/21.08.28%206차%20팀모임/진행%20자료/매쉬업노드팀6차모임.pdf)|
-|2021.09.11|[다람쥐](https://github.com/kor-Chipmunk)|6차 팀모임|토이 프로젝트 중간 점검|[진행 자료](./Regular-Seminar/21.09.11%207차%20팀모임/진행%20자료/매쉬업노드팀7차모임.pdf)|
-|2021.09.25|[다람쥐](https://github.com/kor-Chipmunk)|6차 팀모임|토이 프로젝트 중간 점검|[진행 자료](./Regular-Seminar/21.09.25%208차%20팀모임/진행%20자료/매쉬업노드팀8차모임.pdf)|
+|2021.09.11|[다람쥐](https://github.com/kor-Chipmunk)|7차 팀모임|토이 프로젝트 중간 점검|[진행 자료](./Regular-Seminar/21.09.11%207차%20팀모임/진행%20자료/매쉬업노드팀7차모임.pdf)|
+|2021.09.25|[다람쥐](https://github.com/kor-Chipmunk)|8차 팀모임|토이 프로젝트 중간 점검|[진행 자료](./Regular-Seminar/21.09.25%208차%20팀모임/진행%20자료/매쉬업노드팀8차모임.pdf)|
 ---
 
 ## 10분 세미나
