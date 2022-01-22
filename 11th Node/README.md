@@ -55,6 +55,8 @@
 |2021.09.11|[다람쥐](https://github.com/kor-Chipmunk)|7차 팀모임|토이 프로젝트 중간 점검|[진행 자료](./Regular-Seminar/21.09.11%207차%20팀모임/진행%20자료/매쉬업노드팀7차모임.pdf)|
 |2021.09.25|[다람쥐](https://github.com/kor-Chipmunk)|8차 팀모임|토이 프로젝트 중간 점검|[진행 자료](./Regular-Seminar/21.09.25%208차%20팀모임/진행%20자료/매쉬업노드팀8차모임.pdf)|
 |2021.11.06|[다람쥐](https://github.com/kor-Chipmunk)|9차 팀모임|NestJS Docs 스터디|[진행 자료](./Regular-Seminar/21.11.6%209차%20팀모임/진행%20자료/매쉬업노드팀9차모임.pdf)|
+|2021.11.20|[다람쥐](https://github.com/kor-Chipmunk)|10차 팀모임|NestJS Docs 스터디||
+|2021.11.27|[다람쥐](https://github.com/kor-Chipmunk)|11차 팀모임|NestJS Docs 스터디||
 ---
 
 ## 10분 세미나
@@ -79,9 +81,14 @@
 |2021.09.11|[haron47](https://github.com/haron47)|Validation|Nestjs Validation|[발표 자료](./Ten-min-Seminar/21.09.11%20Validation/Validation.pdf)|
 |2021.09.11|[AlwaysLee](https://github.com/AlwaysLee)|Compression|Nestjs Compression|[발표 자료](./Ten-min-Seminar/21.09.11%20Compression/Compression.pdf)|
 |2021.09.11|[펭긴](https://github.com/pengin7384)|Logger|Nestjs Logger|[발표 자료](./Ten-min-Seminar/21.09.11%20Logger/Logger.pdf)|
-|2021.09.25|[다람쥐](https://github.com/kor-Chipmunk)|WebSocket|WebSocket|[발표 자료](./Ten-min-Seminar/)|
-|2021.09.25|[nari1021](https://github.com/nari1021)|Versioning|Versioning|[발표 자료](./Ten-min-Seminar/)|
-|2021.09.25|[ujusy](https://github.com/ujusy)|gRPC|gRPC|[발표 자료](./Ten-min-Seminar/)|
-|2021.11.06|[god9599](https://github.com/god9599)|Hot reload|Hot reload|[발표 자료](./Ten-min-Seminar/)|
-|2021.11.06|[hyeon-aa](https://github.com/hyeon-aa)|Session|Session|[발표 자료](./Ten-min-Seminar/)|
-|2021.11.06|[swimjiy](https://github.com/swimjiy)|Cookies|Cookies|[발표 자료](./Ten-min-Seminar/)|
+|2021.09.25|[다람쥐](https://github.com/kor-Chipmunk)|WebSocket|NestJs WebSocket|[발표 자료](./Ten-min-Seminar/)|
+|2021.09.25|[nari1021](https://github.com/nari1021)|Versioning|NestJs Versioning|[발표 자료](./Ten-min-Seminar/)|
+|2021.09.25|[ujusy](https://github.com/ujusy)|gRPC|NestJs gRPC|[발표 자료](./Ten-min-Seminar/)|
+|2021.11.06|[god9599](https://github.com/god9599)|Hot reload|NestJs Hot reload|[발표 자료](./Ten-min-Seminar/21.11.06%20Hot%20Reload/Hot%20reload.md)|
+|2021.11.06|[hyeon-aa](https://github.com/hyeon-aa)|Session|NestJs Session|[발표 자료](./Ten-min-Seminar/21.11.06%20Session/Session.md)|
+|2021.11.06|[swimjiy](https://github.com/swimjiy)|Cookies|NestJs Cookies|[발표 자료](./Ten-min-Seminar/21.11.06%20Cookies/Cookies.md)|
+|2021.11.20|[colin950](https://github.com/colin950)|Caching|NestJs Caching|[발표 자료](./Ten-min-Seminar/21.11.20%20Caching/caching.md)|
+|2021.11.20|[sohyeong-dev](https://github.com/sohyeong-dev)|Serialization|NestJs Serialization|[발표 자료](./Ten-min-Seminar/21.11.20%20Serialization/Serialization.md)|
+|2021.11.27|[멍장군](https://github.com/Marades)|AWS Elastic Beanstalk|AWS 서비스 중 엘라스틱 빈스토크 알아보기|[발표 자료](./Ten-min-Seminar/21.11.27%20AWS%20Elastic%20Beanstalk/AWS%20Elastic%20Beanstalk.md)|
+|2021.11.27|[karl](https://github.com/minidonut)|Decorator in depth|데코레이터가 실제로 어떻게 동작할까?|[발표 자료](./Ten-min-Seminar/21.11.27%20Decorator%20in%20depth/Decorator%20in%20depth.md)|
+|2021.11.27|[turastory](https://github.com/turastory)|Task Scheduling||[발표 자료](./Ten-min-Seminar/21.11.27%20Task%20Scheduling/)|
